@@ -1,0 +1,1 @@
+/public: Berisi semua aset statis untuk aplikasi Anda, seperti gambar.

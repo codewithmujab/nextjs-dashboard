@@ -1,0 +1,1 @@
+/app/lib: Berisi fungsi yang digunakan dalam aplikasi Anda, seperti fungsi utilitas yang dapat digunakan kembali dan fungsi pengambilan data.
